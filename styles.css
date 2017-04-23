@@ -1,0 +1,37 @@
+
+button {
+  margin-left: 320px;
+  font-size: 16px;
+  border-radius: 5px;
+  padding: 8px;
+  border-color: #ADD8E6;
+  border-width: large;
+  background-color: #FFD700;
+}
+
+section {
+	margin: 20px 320px;
+	background-color: #ADD8E6;
+	font-size: 22px;
+	border-style: solid;
+	border-color: #FFD700;
+}
+
+section div {
+	margin: 20px 35px;
+	text-align: left; 
+}
+
+h1 {
+	font-size: 46px;
+	text-align: center;
+	margin: 25px;
+}
+
+body {
+	background-color: #82CAFA;
+}
+
+a {
+	color: blue;
+}
