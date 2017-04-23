@@ -1,6 +1,16 @@
+h1 {
+	font-size: 46px;
+	text-align: center;
+	margin: 25px;
+}
+
 body > div {
 	width: 750px;
 	margin: auto;
+}
+
+body {
+	background-color: #82CAFA;
 }
 
 button {
@@ -26,16 +36,10 @@ section div {
 	text-align: left; 
 }
 
-h1 {
-	font-size: 46px;
-	text-align: center;
-	margin: 25px;
-}
-
-body {
-	background-color: #82CAFA;
-}
-
 a {
 	color: blue;
+}
+
+footer p {
+	text-align: center;
 }
